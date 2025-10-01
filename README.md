@@ -1,10 +1,8 @@
-Great work, Mercy 🎉 You’ve structured your assignment well — you now have:
-
+# Crypto Investment Assistant Chatbot
 * ✅ `bit_bot.py` (user system + CryptoBot API logic)
 * ✅ `conie_buddy.py` (main entry point for chatbot)
 * ✅ `users.json` (user data store with bcrypt hashed passwords)
 
-### 2. **README.md**
 
 ````markdown
 # Coinie Chatbot 
